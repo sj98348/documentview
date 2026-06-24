@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\DocumentviewerPCFSol\\DocumentviewerPCFSol.cdsproj": {}
+  },
+  "projects": {
+    "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\DocumentviewerPCFSol\\DocumentviewerPCFSol.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\DocumentviewerPCFSol\\DocumentviewerPCFSol.cdsproj",
+        "projectName": "DocumentviewerPCFSol",
+        "projectPath": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\DocumentviewerPCFSol\\DocumentviewerPCFSol.cdsproj",
+        "packagesPath": "C:\\Users\\R7A3\\.nuget\\packages\\",
+        "outputPath": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\DocumentviewerPCFSol\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\R7A3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\MPC.NGMM.FSM.SmartNotification.DocumentViewer.pcfproj": {
+                "projectPath": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\MPC.NGMM.FSM.SmartNotification.DocumentViewer.pcfproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\MPC.NGMM.FSM.SmartNotification.DocumentViewer.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\MPC.NGMM.FSM.SmartNotification.DocumentViewer.pcfproj",
+        "projectName": "MPC.NGMM.FSM.SmartNotification.DocumentViewer",
+        "projectPath": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\MPC.NGMM.FSM.SmartNotification.DocumentViewer.pcfproj",
+        "packagesPath": "C:\\Users\\R7A3\\.nuget\\packages\\",
+        "outputPath": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\R7A3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

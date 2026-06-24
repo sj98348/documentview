@@ -1,0 +1,2 @@
+C:\MPC.NGMM.FSM.SmartNotification.DocumentViewer\DocumentviewerPCFSol\obj\Debug\DocumentviewerPCFSol.cdsproj.AssemblyReference.cache
+C:\MPC.NGMM.FSM.SmartNotification.DocumentViewer\DocumentviewerPCFSol\obj\Debug\DocumentviewerPCFSol.cdsproj.CoreCompileInputs.cache

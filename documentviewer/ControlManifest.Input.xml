@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="NGMMFSM.Controls" constructor="documentviewer" version="0.0.37" display-name-key="documentviewer" description-key="documentviewer description" control-type="standard" >
+    <external-service-usage enabled="false">
+    </external-service-usage>
+    <property name="documentBase64" display-name-key="Document Base64" description-key="Base64 content for PDF/image, with or without data URL prefix" of-type="Multiple" usage="input" required="false" />
+    <property name="documentMimeType" display-name-key="Document Mime Type" description-key="Mime type such as application/pdf or image/png" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="documentFileName" display-name-key="Document File Name" description-key="Optional file name used to infer type" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="viewerMode" display-name-key="Viewer Mode" description-key="full, load, or document to hide specific button groups" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="showBase64Input" display-name-key="Show Base64 Input" description-key="Shows or hides base64 text area" of-type="TwoOptions" usage="input" required="false" />
+    <!-- Button Visibility Properties -->
+    <property name="showUploadButton" display-name-key="Show Upload Button" description-key="Show or hide the Upload File button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="showAttachButton" display-name-key="Show Attach Button" description-key="Show or hide the Attach button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="showAnnotateButton" display-name-key="Show Annotate Button" description-key="Show or hide the Annotate button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="showClearMarksButton" display-name-key="Show Clear Marks Button" description-key="Show or hide the Clear Marks button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="showDownloadButton" display-name-key="Show Download Button" description-key="Show or hide the Download button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="showExpandButton" display-name-key="Show Expand Button" description-key="Show or hide the Expand/Collapse button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="showCloseButton" display-name-key="Show Close Button" description-key="Show or hide the Close button" of-type="TwoOptions" usage="input" required="false" />
+    <property name="documentBase64Output" display-name-key="Document Base64 Output" description-key="Current document base64 emitted by the control" of-type="Multiple" usage="output" required="false" />
+    <property name="documentViewerActionOutput" display-name-key="Viewer Action" description-key="Action that triggered output: attach or annotate" of-type="SingleLine.Text" usage="output" required="false" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="styles/documentviewer.css" order="2" />
+    </resources>
+  </control>
+</manifest>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KATic5eofBM=",
+  "success": true,
+  "projectFilePath": "C:\\MPC.NGMM.FSM.SmartNotification.DocumentViewer\\DocumentviewerPCFSol\\DocumentviewerPCFSol.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R7A3\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\R7A3\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\R7A3\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.52.1\\microsoft.powerapps.msbuild.pcf.1.52.1.nupkg.sha512",
+    "C:\\Users\\R7A3\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.52.1\\microsoft.powerapps.msbuild.solution.1.52.1.nupkg.sha512"
+  ],
+  "logs": []
+}

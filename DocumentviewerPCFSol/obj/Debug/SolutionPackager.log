@@ -1,0 +1,20 @@
+2026-06-23 15:40:50.277 - Info	
+Packing C:\MPC.NGMM.FSM.SmartNotification.DocumentViewer\DocumentviewerPCFSol\obj\Debug\Metadata to bin\Debug\DocumentviewerPCFSol.zip
+
+2026-06-23 15:40:50.303 - Info	Processing Component: Entities
+2026-06-23 15:40:50.308 - Info	Processing Component: Roles
+2026-06-23 15:40:50.316 - Info	Processing Component: Workflows
+2026-06-23 15:40:50.317 - Info	Processing Component: FieldSecurityProfiles
+2026-06-23 15:40:50.320 - Info	Processing Component: Templates
+2026-06-23 15:40:50.322 - Info	Processing Component: EntityMaps
+2026-06-23 15:40:50.322 - Info	Processing Component: EntityRelationships
+2026-06-23 15:40:50.328 - Info	Processing Component: OrganizationSettings
+2026-06-23 15:40:50.329 - Info	Processing Component: optionsets
+2026-06-23 15:40:50.330 - Info	Processing Component: CustomControls
+2026-06-23 15:40:50.344 - Info	 - NGMMFSM.Controls.documentviewer
+2026-06-23 15:40:50.357 - Info	Processing Component: SolutionPluginAssemblies
+2026-06-23 15:40:50.359 - Info	Processing Component: EntityDataProviders
+2026-06-23 15:40:50.365 - Info	Processing Sharded Component Files
+2026-06-23 15:40:50.511 - Info	
+Unmanaged Pack complete.
+
